@@ -644,7 +644,7 @@ function saveReflection() {
 /* ══════════════════════════════════
    GOOGLE DRIVE SYNC
 ══════════════════════════════════ */
-const DRIVE_CLIENT_ID = 'YOUR_GOOGLE_CLIENT_ID';
+const DRIVE_CLIENT_ID = '759176550183-ncp2gsj1437c3k8kbcl8k47r6qu32n86.apps.googleusercontent.com';
 const DRIVE_SCOPE     = 'https://www.googleapis.com/auth/drive.file';
 const DRIVE_FILE_NAME = 'operator_os_data.json';
 let driveToken = null;
